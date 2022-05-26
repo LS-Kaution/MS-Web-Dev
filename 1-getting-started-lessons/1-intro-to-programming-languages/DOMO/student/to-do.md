@@ -24,7 +24,7 @@ for(let i = startingPoint; i <= endingPoint; i++) {
 Next, write the same code in the following languages and make sure that it works properly.
 
 - [C](https://en.wikipedia.org/wiki/C_(programming_language))
-- [bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
-- [java](https://en.wikipedia.org/wiki/Java_(programming_language))
+- [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+- [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
 
 Finally, upload every file with its corresponding code in a folder called 'to-do-done"
