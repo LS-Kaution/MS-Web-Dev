@@ -23,8 +23,8 @@ for(let i = startingPoint; i <= endingPoint; i++) {
 
 Next, write the same code in the following languages and make sure that it works properly.
 
-- [C](https://en.wikipedia.org/wiki/C_(programming_language))
-- [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
-- [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
+- [C](https://www.programiz.com/c-programming/online-compiler/)
+- [Bash](https://replit.com/languages/bash)
+- [Java](https://www.programiz.com/java-programming/online-compiler/)
 
-Finally, upload every file with its corresponding code in a folder called "to-do-done"
+Finally, upload every file with its corresponding code in a folder called 'to-do-done"
